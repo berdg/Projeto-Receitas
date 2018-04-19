@@ -12,7 +12,5 @@ export class AlertaComponent implements OnInit {
   ngOnInit() {
   }
 
-  public mostrarAlerta() {
-    alert('Bom apetite!');
-  }
+ 
 }

@@ -28,6 +28,7 @@ export class ReceitasComponent implements OnInit {
 
 public mostrarReceitas() {
   this.mostrarReceita = true;
+  alert('Bom apetite!');
 }
 
 
